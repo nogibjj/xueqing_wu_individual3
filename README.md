@@ -10,7 +10,8 @@ The goal of this project is to build an ETL pipeline on Databricks.
 
 ## References
 
-![1 1-function-essence-of-programming](https://github.com/nogibjj/python-ruff-template/assets/58792/f7f33cd3-cff5-4014-98ea-09b6a29c7557)
+https://github.com/nogibjj/python-ruff-template
+https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html
 
 
 
