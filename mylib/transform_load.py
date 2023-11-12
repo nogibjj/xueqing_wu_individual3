@@ -1,4 +1,4 @@
-x"""
+"""
 transform and load function
 """
 
