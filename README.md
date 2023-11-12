@@ -3,8 +3,8 @@
 ## Purpose
 The goal of this project is to build an ETL pipeline on Databricks. 
 
-## Funciontality
-
+## Youtube video
+https://youtu.be/Wh6-fqYUNwI 
 
 ## Dataset
 The two datasets are the number of births for each year, month, and day. Below are data sources:
