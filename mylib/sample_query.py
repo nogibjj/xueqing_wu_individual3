@@ -1,4 +1,3 @@
-
 SELECT year, SUM(births) AS total_birth
 FROM (
     SELECT year, births

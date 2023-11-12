@@ -54,7 +54,8 @@ def viz():
 
     # Plot a single histogram for all years
     plt.figure(figsize=(15, 8))
-    plt.hist(pandas_df["total_birth"], bins=20, edgecolor='black')  # Adjust the number of bins as needed
+    plt.hist(pandas_df["total_birth"], bins=20, edgecolor='black')  
+    # Adjust the number of bins as needed
     plt.title("Total Births for All Years")
     plt.xlabel("Total Births")
     plt.ylabel("Frequency")
