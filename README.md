@@ -3,7 +3,8 @@
 
 ![1 15_rust_built_python_tools](https://github.com/nogibjj/python-ruff-template/assets/58792/db5f7bda-a977-4c67-acbe-a70fe034fbdf)
 
-
+# Purpose
+The goal of this project is to build an ETL pipeline on Databricks. 
 
 
 
